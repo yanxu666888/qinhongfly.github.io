@@ -1,1 +1,15 @@
-theme: plainwhite
+title: Qinhong Jiang
+url: "http://qinhongfly.github.io"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Resume"
+   link: ""

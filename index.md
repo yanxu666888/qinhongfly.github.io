@@ -31,7 +31,7 @@ Perception, Prediction, System engineering
 ## Publications
 ---  
 Dynamic and Static Context-aware LSTM for Multi-agent Motion Prediction  
-Chaofan Tao, Qinhong Jiang, Lixin Duan, Luo Ping    
+Chaofan Tao, **Qinhong Jiang**, Lixin Duan, Luo Ping    
 European Conference on Computer Vision(ECCV), 2020.
 
 [TPNet: Trajectory Proposal Network for Motion Prediction](https://arxiv.org/abs/2004.12255)  
